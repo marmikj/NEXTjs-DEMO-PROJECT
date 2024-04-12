@@ -15,7 +15,6 @@ const page = () => {
     <div style={{ color: 'darkgreen' }}>
       <h3>employee of company</h3>
       <div>
-     
       </div>
     </div>
   )

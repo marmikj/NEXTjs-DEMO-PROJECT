@@ -14,7 +14,7 @@ import profilepic from '@/images/download (4).jpeg'
 //     subsets:['latin'],
 //     display:'swap'
 // })
-export const roboto_mono = Roboto_Mono({
+ const roboto_mono = Roboto_Mono({
     subsets: ['latin'],
     display: 'swap',
   })
